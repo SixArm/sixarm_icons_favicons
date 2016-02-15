@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+    <title>404 - Something's Missing</title>
+    <meta name="description" content="The world’s best photo editing SDK. Over 6 billion photos have been edited with our powerful tools.">
+    <link rel="stylesheet" type="text/css" href="https://d1wufgde20uhiw.cloudfront.net/v9/20150303/css/404.css"/>
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200' rel='stylesheet' type='text/css'>
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--Favicon-->
+    <link rel="icon" href="https://d1wufgde20uhiw.cloudfront.net/v9/20150303/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://d1wufgde20uhiw.cloudfront.net/v9/20150303/img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <section id="container">
+        <h2>Something's Missing</h2>
+        <p>We couldn’t find the page you were looking for. <br> Do you want to try our home page instead?</p>
+        <a href="http://aviary.com" class="button">Go to aviary.com</a>
+  </section>
+</body>
+</html>

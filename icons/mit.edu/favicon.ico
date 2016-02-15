@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>MIT Certificate Error</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<style type="text/css">
+
+body {
+  padding:0px;
+  margin:0px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:#ffffff;
+  color:#000000;
+}
+#topbar {
+  display:block;
+  padding:2px 0px 3px 30px;
+  margin:0px;
+  background-color:#cccccc;
+  font-size:12px;
+}
+#middle {
+  margin:34px 0px 0px 150px;
+  width:60%;
+}
+#logo {
+  position:absolute;
+  top:120px;
+  left:32px;
+}
+p, li, input {
+  font-size:85%;
+  line-height:160%;
+}
+ul {
+  margin-left:0px;
+  padding-left:20px;
+  padding-bottom:0.75em;
+}
+li {
+  margin-left:0px;
+  padding-left:0px;
+}
+li a {
+  font-weight:bold;
+}
+input {
+  vertical-align:middle;
+  margin: 1px 0px 1px 0px;
+}
+input[type="radio"] {
+  margin-left:5px;
+}
+label {
+  font-size:70%;
+  text-transform:capitalize;
+  vertical-align:middle;
+  letter-spacing:0.05em;
+}
+form {
+  padding-bottom:5em;
+}
+a, a:link, a:visited {
+  color: #993333; 
+  text-decoration: none;
+}
+a:hover, a:active {
+  text-decoration:underline;
+}
+
+
+</style>
+</head>
+
+<body>
+<div id="topbar"><a href="http://web.mit.edu/">massachusetts institute of technology</a> </div> 
+<div id="middle"> 
+  <h1>certificate error</h1>
+
+  <p>A client certificate was invalid or not provided.</p>
+
+ </div> 
+
+<div id="logo">
+
+<a href="http://web.mit.edu/"><img alt="MIT logo" src="http://web.mit.edu/img/mitlogo.gif" width="64" height="32" border="0"/></a>
+</div>
+</div>
+</body>
+</html>
