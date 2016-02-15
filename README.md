@@ -34,6 +34,8 @@ To convert four file sizes, using our naming conventions:
     convert favicon.ico -thumbnail 48x48 -alpha on -background none -flatten favicon-48x48.png
     convert favicon.ico -thumbnail 64x64 -alpha on -background none -flatten favicon-64x64.png
 
+To create symlinks with our preferred naming convention for scale multipliers:
+
     ln -sf favicon-16x16.png favicon-16x16-1x.png
     ln -sf favicon-32x32.png favicon-16x16-2x.png
     ln -sf favicon-48x48.png favicon-16x16-3x.png
