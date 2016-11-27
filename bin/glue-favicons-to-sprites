@@ -11,11 +11,49 @@ program_license="GPL"
 program_contact="Joel Parker Henderson (joel@joelparkerhenderson.com)"
 program_variant="$program_command version $program_version updated $program_updated"
 
-program() { echo "$program_command"; }
-version() { echo "$program_version"; }
-tempdir() { echo $(mktemp -d -t $(program)); }
+## Help Function ##
 
-prepdir="favicons"; rm -rf "$prepdir"; mkdir "$prepdir"
+help(){
+cat << EOF
+
+glue-favicons-to-sprites: combine favicon image files into one css file and png file
+
+Program: $program_command
+Version: $program_version
+Created: $program_created
+Updated: $program_updates
+License: $program_license
+Contact: $program_contact
+Variant: $program_variant
+EOF
+
+# Create a temporary prep dir named "favicons".
+# TODO: change from using the dir name to using a tempdir.
+#
+# The `glue` command uses the dir name as the output file name.
+# TODO: figure out how to use a custome output file name.
+#
+prepdir="favicons"
+rm -rf "$prepdir"
+mkdir "$prepdir"
+
+# Copy all the favicon 16x16 files into the temp dir,
+# and fix the file names to be compatible with `glue`.
+#
+# Example source:
+#
+#     icons/www.example.com/favicon-16x16.png
+#
+# Example destination:
+#
+#     favicons/www-example-com.png
+#
+# Currently we only care about the 16x16 files,
+# because our website uses the littlest images,
+# beacuse we want the fastest file transfer speed.
+#
+# TODO: research using higer-res images for retina screens.
+#
 for dir in $(ls -1 icons); do
     src="$dir/favicon-16x16.png"
     dst=$(echo "$dir" | sed 's/[^-_a-z0-9]\+/-/g')".png"
