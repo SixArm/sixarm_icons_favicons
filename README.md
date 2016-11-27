@@ -49,4 +49,15 @@ We prefer to glue the sprites in a vertical column, with ordering by filename.
 
 Example command:
 
-    glue --algorithm vertical --ordering filename --recursive --source . --output .glue.d
+    glue --algorithm=vertical \
+         --ordering=filename \
+         --recursive \
+         --cachebuster \
+         --sprite-namespace= \
+         --namespace= \
+         --source icons \
+         --output .glue.d \
+
+--img=img1 --css=css1 \
+
+--css-template=css-template.jinja

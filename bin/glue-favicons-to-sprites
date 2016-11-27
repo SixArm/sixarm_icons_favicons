@@ -1,0 +1,36 @@
+#/bin/sh
+set -euf
+
+## Program Tracking ##
+
+program_command="glue-favicons-to-sprites"
+program_version="1.0.0"
+program_created="2016-11-26"
+program_updated="2016-11-27"
+program_license="GPL"
+program_contact="Joel Parker Henderson (joel@joelparkerhenderson.com)"
+program_variant="$program_command version $program_version updated $program_updated"
+
+program() { echo "$program_command"; }
+version() { echo "$program_version"; }
+tempdir() { echo $(mktemp -d -t $(program)); }
+
+prepdir="favicons"; rm -rf "$prepdir"; mkdir "$prepdir"
+for dir in $(ls -1 icons); do
+    src="$dir/favicon-16x16.png"
+    dst=$(echo "$dir" | sed 's/[^-_a-z0-9]\+/-/g')".png"
+    echo "$src => $dst"
+    cp "icons/$src" "$prepdir/$dst"
+done
+
+glue \
+  --algorithm=vertical \
+  --ordering=filename \
+  --recursive \
+  --cachebuster \
+  --sprite-namespace= \
+  --namespace=favicon \
+  --source "$prepdir"\
+  --output sprites \
+
+rm -rf "$prepdir"
