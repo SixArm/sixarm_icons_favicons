@@ -44,3 +44,9 @@ To create symlinks with our preferred naming convention for scale multipliers:
 ## Sprites
 
 To create sprites, we use [glue](https://github.com/jorgebastida/glue).
+
+We prefer to glue the sprites in a vertical column, with ordering by filename.
+
+Example command:
+
+    glue --algorithm vertical --ordering filename --recursive --source . --output .glue.d
