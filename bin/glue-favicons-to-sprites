@@ -26,6 +26,7 @@ License: $program_license
 Contact: $program_contact
 Variant: $program_variant
 EOF
+}
 
 # Create a temporary prep dir named "favicons".
 # TODO: change from using the dir name to using a tempdir.
@@ -69,6 +70,6 @@ glue \
   --sprite-namespace= \
   --namespace=favicon \
   --source "$prepdir"\
-  --output sprites \
+  --output sprites
 
 rm -rf "$prepdir"
