@@ -28,6 +28,21 @@ Variant: $program_variant
 EOF
 }
 
+if command -v glue >/dev/null 2>&1; then
+  :
+else
+  echo "The glue command is missing."
+  echo ""
+  echo "To install on macOS try this:"
+  echo "  brew install python"
+  echo "  sudo easy_install pip"
+  echo "  sudo pip install glue"
+  echo ""
+  echo "To install on Debian/Ubuntu try this:"
+  echo "  apt-get install glue-sprite"
+  exit 1
+fi
+
 # Create a temporary prep dir named "favicons".
 # TODO: change from using the dir name to using a tempdir.
 #
@@ -41,13 +56,17 @@ mkdir "$prepdir"
 # Copy all the favicon 16x16 files into the temp dir,
 # and fix the file names to be compatible with `glue`.
 #
-# Example source:
+# Example source path:
 #
 #     icons/www.example.com/favicon-16x16.png
 #
-# Example destination:
+# Example destination path:
 #
 #     favicons/www-example-com.png
+#
+# Example output URL:
+#
+#     /assets/images/favicons.png
 #
 # Currently we only care about the 16x16 files,
 # because our website uses the littlest images,
@@ -69,6 +88,7 @@ glue \
   --cachebuster \
   --sprite-namespace= \
   --namespace=favicon \
+  --url=/assets/img/ \
   --source "$prepdir"\
   --output sprites
 
