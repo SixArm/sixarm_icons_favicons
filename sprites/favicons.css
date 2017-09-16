@@ -1,4 +1,4 @@
-/* glue: 0.13 hash: b563bddd2e */
+/* glue: 0.13 hash: 68e1e7a0a0 */
         .favicon-37signals-com,
 .favicon-abcnews-com,
 .favicon-about-me,
@@ -239,6 +239,7 @@
 .favicon-wechat-com,
 .favicon-wellsfargo-com,
 .favicon-wested-org,
+.favicon-whatsapp-com,
 .favicon-wikipedia-org,
 .favicon-wired-com,
 .favicon-wustl-edu,
@@ -250,7 +251,7 @@
 .favicon-youku-com,
 .favicon-youtube-com,
 .favicon-zeer-com {
-            background-image: url('/assets/img/favicons.png?b563bddd2e');
+            background-image: url('/assets/img/favicons.png?68e1e7a0a0');
             background-repeat: no-repeat;
         }
         
@@ -1694,68 +1695,74 @@
             height: 16px;
         }
         
-        .favicon-wikipedia-org {
+        .favicon-whatsapp-com {
             background-position: 0 -3840px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wired-com {
+        .favicon-wikipedia-org {
             background-position: 0 -3856px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wustl-edu {
+        .favicon-wired-com {
             background-position: 0 -3872px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-xing-com {
+        .favicon-wustl-edu {
             background-position: 0 -3888px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-yahoo-com {
+        .favicon-xing-com {
             background-position: 0 -3904px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-yale-edu {
+        .favicon-yahoo-com {
             background-position: 0 -3920px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ycombinator-com {
+        .favicon-yale-edu {
             background-position: 0 -3936px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-yelp-com {
+        .favicon-ycombinator-com {
             background-position: 0 -3952px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-youku-com {
+        .favicon-yelp-com {
             background-position: 0 -3968px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-youtube-com {
+        .favicon-youku-com {
             background-position: 0 -3984px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-zeer-com {
+        .favicon-youtube-com {
             background-position: 0 -4000px;
+            width: 16px;
+            height: 16px;
+        }
+        
+        .favicon-zeer-com {
+            background-position: 0 -4016px;
             width: 16px;
             height: 16px;
         }
@@ -2001,6 +2008,7 @@
     .favicon-wechat-com,
     .favicon-wellsfargo-com,
     .favicon-wested-org,
+    .favicon-whatsapp-com,
     .favicon-wikipedia-org,
     .favicon-wired-com,
     .favicon-wustl-edu,
@@ -2012,10 +2020,10 @@
     .favicon-youku-com,
     .favicon-youtube-com,
     .favicon-zeer-com {
-                background-image: url('/assets/img/favicons.png?b563bddd2e');
-                -webkit-background-size: 16px 4016px;
-                -moz-background-size: 16px 4016px;
-                background-size: 16px 4016px;
+                background-image: url('/assets/img/favicons.png?68e1e7a0a0');
+                -webkit-background-size: 16px 4032px;
+                -moz-background-size: 16px 4032px;
+                background-size: 16px 4032px;
             }
         }
         
