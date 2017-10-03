@@ -1,4 +1,4 @@
-/* glue: 0.13 hash: 0e402f8e6c */
+/* glue: 0.13 hash: f3db885d2b */
         .favicon-37signals-com,
 .favicon-abcnews-com,
 .favicon-about-me,
@@ -101,6 +101,7 @@
 .favicon-gowalla-com,
 .favicon-grubhub-com,
 .favicon-handle-com,
+.favicon-hangouts-google-com,
 .favicon-harvard-edu,
 .favicon-honda-com,
 .favicon-hotair-com,
@@ -258,7 +259,7 @@
 .favicon-youku-com,
 .favicon-youtube-com,
 .favicon-zeer-com {
-            background-image: url('/assets/img/favicons.png?0e402f8e6c');
+            background-image: url('/assets/img/favicons.png?f3db885d2b');
             background-repeat: no-repeat;
         }
         
@@ -874,944 +875,950 @@
             height: 16px;
         }
         
-        .favicon-harvard-edu {
+        .favicon-hangouts-google-com {
             background-position: 0 -1632px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-honda-com {
+        .favicon-harvard-edu {
             background-position: 0 -1648px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-hotair-com {
+        .favicon-honda-com {
             background-position: 0 -1664px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-howcast-com {
+        .favicon-hotair-com {
             background-position: 0 -1680px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-hrw-org {
+        .favicon-howcast-com {
             background-position: 0 -1696px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-huffingtonpost-com {
+        .favicon-hrw-org {
             background-position: 0 -1712px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-icq-com {
+        .favicon-huffingtonpost-com {
             background-position: 0 -1728px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-identi-com {
+        .favicon-icq-com {
             background-position: 0 -1744px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ifixit-com {
+        .favicon-identi-com {
             background-position: 0 -1760px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-imdb-com {
+        .favicon-ifixit-com {
             background-position: 0 -1776px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-indeed-com {
+        .favicon-imdb-com {
             background-position: 0 -1792px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-indiegogo-com {
+        .favicon-indeed-com {
             background-position: 0 -1808px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-instructables-com {
+        .favicon-indiegogo-com {
             background-position: 0 -1824px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-internet {
+        .favicon-instructables-com {
             background-position: 0 -1840px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-java {
+        .favicon-internet {
             background-position: 0 -1856px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-kachingle-com {
+        .favicon-java {
             background-position: 0 -1872px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-kayak-com {
+        .favicon-kachingle-com {
             background-position: 0 -1888px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-kia-com {
+        .favicon-kayak-com {
             background-position: 0 -1904px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-kickstarter-com {
+        .favicon-kia-com {
             background-position: 0 -1920px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-kideos-com {
+        .favicon-kickstarter-com {
             background-position: 0 -1936px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-kiva-com {
+        .favicon-kideos-com {
             background-position: 0 -1952px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-kotaku-com {
+        .favicon-kiva-com {
             background-position: 0 -1968px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-latimes-com {
+        .favicon-kotaku-com {
             background-position: 0 -1984px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-lifehacker-com {
+        .favicon-latimes-com {
             background-position: 0 -2000px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-linkedin-com {
+        .favicon-lifehacker-com {
             background-position: 0 -2016px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-linuxfoundation-org {
+        .favicon-linkedin-com {
             background-position: 0 -2032px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-liquibase-org {
+        .favicon-linuxfoundation-org {
             background-position: 0 -2048px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-listia-com {
+        .favicon-liquibase-org {
             background-position: 0 -2064px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-livingsocial-com {
+        .favicon-listia-com {
             background-position: 0 -2080px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-localdirt-com {
+        .favicon-livingsocial-com {
             background-position: 0 -2096px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-locatetv-com {
+        .favicon-localdirt-com {
             background-position: 0 -2112px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-lucyphone-com {
+        .favicon-locatetv-com {
             background-position: 0 -2128px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-m-w-com {
+        .favicon-lucyphone-com {
             background-position: 0 -2144px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-makeuseof-com {
+        .favicon-m-w-com {
             background-position: 0 -2160px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-mashable-com {
+        .favicon-makeuseof-com {
             background-position: 0 -2176px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-masterbranch-com {
+        .favicon-mashable-com {
             background-position: 0 -2192px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-match-com {
+        .favicon-masterbranch-com {
             background-position: 0 -2208px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-meebo-com {
+        .favicon-match-com {
             background-position: 0 -2224px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-meetup-com {
+        .favicon-meebo-com {
             background-position: 0 -2240px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-menlovc-com {
+        .favicon-meetup-com {
             background-position: 0 -2256px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-messenger-com {
+        .favicon-menlovc-com {
             background-position: 0 -2272px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-metacafe-com {
+        .favicon-messenger-com {
             background-position: 0 -2288px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-metacritic-com {
+        .favicon-metacafe-com {
             background-position: 0 -2304px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-microsoft-com {
+        .favicon-metacritic-com {
             background-position: 0 -2320px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-milo-com {
+        .favicon-microsoft-com {
             background-position: 0 -2336px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-mint-com {
+        .favicon-milo-com {
             background-position: 0 -2352px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-mit-edu {
+        .favicon-mint-com {
             background-position: 0 -2368px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-mixx-com {
+        .favicon-mit-edu {
             background-position: 0 -2384px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-moneycentral-msn-com {
+        .favicon-mixx-com {
             background-position: 0 -2400px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-msn-com {
+        .favicon-moneycentral-msn-com {
             background-position: 0 -2416px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-msnbc-com {
+        .favicon-msn-com {
             background-position: 0 -2432px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-myspace-com {
+        .favicon-msnbc-com {
             background-position: 0 -2448px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-mysql-com {
+        .favicon-myspace-com {
             background-position: 0 -2464px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-nationalreview-com {
+        .favicon-mysql-com {
             background-position: 0 -2480px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-neighborgoods-net {
+        .favicon-nationalreview-com {
             background-position: 0 -2496px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-news-ycombinator-com {
+        .favicon-neighborgoods-net {
             background-position: 0 -2512px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-newsmax-com {
+        .favicon-news-ycombinator-com {
             background-position: 0 -2528px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-newsvine-com {
+        .favicon-newsmax-com {
             background-position: 0 -2544px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ning-com {
+        .favicon-newsvine-com {
             background-position: 0 -2560px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-nytimes-com {
+        .favicon-ning-com {
             background-position: 0 -2576px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-opensource-org {
+        .favicon-nytimes-com {
             background-position: 0 -2592px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-oracle-com {
+        .favicon-opensource-org {
             background-position: 0 -2608px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-pandora-com {
+        .favicon-oracle-com {
             background-position: 0 -2624px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-patreon-com {
+        .favicon-pandora-com {
             background-position: 0 -2640px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-pcmag-com {
+        .favicon-patreon-com {
             background-position: 0 -2656px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-perezhilton-com {
+        .favicon-pcmag-com {
             background-position: 0 -2672px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-photobucket-com {
+        .favicon-perezhilton-com {
             background-position: 0 -2688px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-picnik-com {
+        .favicon-photobucket-com {
             background-position: 0 -2704px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-plus-google-com {
+        .favicon-picnik-com {
             background-position: 0 -2720px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-podcast-com {
+        .favicon-plus-google-com {
             background-position: 0 -2736px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-politico-com {
+        .favicon-podcast-com {
             background-position: 0 -2752px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-princeton-edu {
+        .favicon-politico-com {
             background-position: 0 -2768px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-qik-com {
+        .favicon-princeton-edu {
             background-position: 0 -2784px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-qq-com {
+        .favicon-qik-com {
             background-position: 0 -2800px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-quirky-com {
+        .favicon-qq-com {
             background-position: 0 -2816px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-quora-com {
+        .favicon-quirky-com {
             background-position: 0 -2832px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-rapleaf-com {
+        .favicon-quora-com {
             background-position: 0 -2848px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ravelry-com {
+        .favicon-rapleaf-com {
             background-position: 0 -2864px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-realclearpolitics-com {
+        .favicon-ravelry-com {
             background-position: 0 -2880px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-reddit-com {
+        .favicon-realclearpolitics-com {
             background-position: 0 -2896px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-retweet-com {
+        .favicon-reddit-com {
             background-position: 0 -2912px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-roadsideamerica-com {
+        .favicon-retweet-com {
             background-position: 0 -2928px;
+            width: 16px;
+            height: 16px;
+        }
+        
+        .favicon-roadsideamerica-com {
+            background-position: 0 -2944px;
             width: 12px;
             height: 16px;
         }
         
         .favicon-roku-com {
-            background-position: 0 -2944px;
-            width: 16px;
-            height: 16px;
-        }
-        
-        .favicon-rottentomatoes-com {
             background-position: 0 -2960px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-scribd-com {
+        .favicon-rottentomatoes-com {
             background-position: 0 -2976px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-seatgeek-com {
+        .favicon-scribd-com {
             background-position: 0 -2992px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-seeclickfix-com {
+        .favicon-seatgeek-com {
             background-position: 0 -3008px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-sepiatown-com {
+        .favicon-seeclickfix-com {
             background-position: 0 -3024px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-sfconservancy-org {
+        .favicon-sepiatown-com {
             background-position: 0 -3040px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-sharethis-com {
+        .favicon-sfconservancy-org {
             background-position: 0 -3056px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-shop-com {
+        .favicon-sharethis-com {
             background-position: 0 -3072px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-shortform-tv {
+        .favicon-shop-com {
             background-position: 0 -3088px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-shovio-com {
+        .favicon-shortform-tv {
             background-position: 0 -3104px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-si-com {
+        .favicon-shovio-com {
             background-position: 0 -3120px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-sitejabber-com {
+        .favicon-si-com {
             background-position: 0 -3136px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-sixarm-com {
+        .favicon-sitejabber-com {
             background-position: 0 -3152px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-skype-com {
+        .favicon-sixarm-com {
             background-position: 0 -3168px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-slack-com {
+        .favicon-skype-com {
             background-position: 0 -3184px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-slashdot-com {
+        .favicon-slack-com {
             background-position: 0 -3200px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-slideshare-com {
+        .favicon-slashdot-com {
             background-position: 0 -3216px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-smashingmagazine-com {
+        .favicon-slideshare-com {
             background-position: 0 -3232px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-smugmug-com {
+        .favicon-smashingmagazine-com {
             background-position: 0 -3248px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-snopes-com {
+        .favicon-smugmug-com {
             background-position: 0 -3264px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-socialmention-com {
+        .favicon-snopes-com {
             background-position: 0 -3280px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-soso-com {
+        .favicon-socialmention-com {
             background-position: 0 -3296px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-soundcloud-com {
+        .favicon-soso-com {
             background-position: 0 -3312px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-squidoo-com {
+        .favicon-soundcloud-com {
             background-position: 0 -3328px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-stackoverflow-com {
+        .favicon-squidoo-com {
             background-position: 0 -3344px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-stanford-edu {
+        .favicon-stackoverflow-com {
             background-position: 0 -3360px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-starfall-com {
+        .favicon-stanford-edu {
             background-position: 0 -3376px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-stumbleupon-com {
+        .favicon-starfall-com {
             background-position: 0 -3392px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-sun-com {
+        .favicon-stumbleupon-com {
             background-position: 0 -3408px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-swagger-io {
+        .favicon-sun-com {
             background-position: 0 -3424px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-swift {
+        .favicon-swagger-io {
             background-position: 0 -3440px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-talkingpointsmemo-com {
+        .favicon-swift {
             background-position: 0 -3456px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-target {
+        .favicon-talkingpointsmemo-com {
             background-position: 0 -3472px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-teamwork {
+        .favicon-target {
             background-position: 0 -3488px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-techsupportalert-com {
+        .favicon-teamwork {
             background-position: 0 -3504px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ted-com {
+        .favicon-techsupportalert-com {
             background-position: 0 -3520px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thehill-com {
+        .favicon-ted-com {
             background-position: 0 -3536px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thehotlist-com {
+        .favicon-thehill-com {
             background-position: 0 -3552px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-theonion-com {
+        .favicon-thehotlist-com {
             background-position: 0 -3568px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thesaurus-com {
+        .favicon-theonion-com {
             background-position: 0 -3584px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thestreet-com {
+        .favicon-thesaurus-com {
             background-position: 0 -3600px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thisweknow-org {
+        .favicon-thestreet-com {
             background-position: 0 -3616px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thoughtworks-com {
+        .favicon-thisweknow-org {
             background-position: 0 -3632px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-tinychat-com {
+        .favicon-thoughtworks-com {
             background-position: 0 -3648px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-tinypay-me {
+        .favicon-tinychat-com {
             background-position: 0 -3664px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-townhall-com {
+        .favicon-tinypay-me {
             background-position: 0 -3680px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-transparent {
+        .favicon-townhall-com {
             background-position: 0 -3696px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-travis-ci-com {
+        .favicon-transparent {
             background-position: 0 -3712px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-tudou-com {
+        .favicon-travis-ci-com {
             background-position: 0 -3728px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-tungle-me {
+        .favicon-tudou-com {
             background-position: 0 -3744px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-twitter-com {
+        .favicon-tungle-me {
             background-position: 0 -3760px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ucla-edu {
+        .favicon-twitter-com {
             background-position: 0 -3776px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ucop-edu {
+        .favicon-ucla-edu {
             background-position: 0 -3792px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-usatoday-com {
+        .favicon-ucop-edu {
             background-position: 0 -3808px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-viddler-com {
+        .favicon-usatoday-com {
             background-position: 0 -3824px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-vimeo-com {
+        .favicon-viddler-com {
             background-position: 0 -3840px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-virb-com {
+        .favicon-vimeo-com {
             background-position: 0 -3856px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-vkontakte-ru {
+        .favicon-virb-com {
             background-position: 0 -3872px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-washingtonpost-com {
+        .favicon-vkontakte-ru {
             background-position: 0 -3888px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wechat-com {
+        .favicon-washingtonpost-com {
             background-position: 0 -3904px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wellsfargo-com {
+        .favicon-wechat-com {
             background-position: 0 -3920px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wested-org {
+        .favicon-wellsfargo-com {
             background-position: 0 -3936px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-whatsapp-com {
+        .favicon-wested-org {
             background-position: 0 -3952px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wikipedia-org {
+        .favicon-whatsapp-com {
             background-position: 0 -3968px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wired-com {
+        .favicon-wikipedia-org {
             background-position: 0 -3984px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wustl-edu {
+        .favicon-wired-com {
             background-position: 0 -4000px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-xing-com {
+        .favicon-wustl-edu {
             background-position: 0 -4016px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-yahoo-com {
+        .favicon-xing-com {
             background-position: 0 -4032px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-yale-edu {
+        .favicon-yahoo-com {
             background-position: 0 -4048px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ycombinator-com {
+        .favicon-yale-edu {
             background-position: 0 -4064px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-yelp-com {
+        .favicon-ycombinator-com {
             background-position: 0 -4080px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-youku-com {
+        .favicon-yelp-com {
             background-position: 0 -4096px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-youtube-com {
+        .favicon-youku-com {
             background-position: 0 -4112px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-zeer-com {
+        .favicon-youtube-com {
             background-position: 0 -4128px;
+            width: 16px;
+            height: 16px;
+        }
+        
+        .favicon-zeer-com {
+            background-position: 0 -4144px;
             width: 16px;
             height: 16px;
         }
@@ -1919,6 +1926,7 @@
     .favicon-gowalla-com,
     .favicon-grubhub-com,
     .favicon-handle-com,
+    .favicon-hangouts-google-com,
     .favicon-harvard-edu,
     .favicon-honda-com,
     .favicon-hotair-com,
@@ -2076,10 +2084,10 @@
     .favicon-youku-com,
     .favicon-youtube-com,
     .favicon-zeer-com {
-                background-image: url('/assets/img/favicons.png?0e402f8e6c');
-                -webkit-background-size: 16px 4144px;
-                -moz-background-size: 16px 4144px;
-                background-size: 16px 4144px;
+                background-image: url('/assets/img/favicons.png?f3db885d2b');
+                -webkit-background-size: 16px 4160px;
+                -moz-background-size: 16px 4160px;
+                background-size: 16px 4160px;
             }
         }
         
