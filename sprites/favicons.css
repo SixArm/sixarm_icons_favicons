@@ -1,4 +1,4 @@
-/* glue: 0.13 hash: 7ec235adf8 */
+/* glue: 0.13 hash: 92d655adff */
         .favicon-37signals-com,
 .favicon-abcnews-com,
 .favicon-about-me,
@@ -214,6 +214,7 @@
 .favicon-stackoverflow-com,
 .favicon-stanford-edu,
 .favicon-starfall-com,
+.favicon-startup,
 .favicon-stumbleupon-com,
 .favicon-sun-com,
 .favicon-swagger-io,
@@ -261,7 +262,7 @@
 .favicon-youku-com,
 .favicon-youtube-com,
 .favicon-zeer-com {
-            background-image: url('/assets/img/favicons.png?7ec235adf8');
+            background-image: url('/assets/img/favicons.png?92d655adff');
             background-repeat: no-repeat;
         }
         
@@ -1555,284 +1556,290 @@
             height: 16px;
         }
         
-        .favicon-stumbleupon-com {
+        .favicon-startup {
             background-position: 0 -3440px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-sun-com {
+        .favicon-stumbleupon-com {
             background-position: 0 -3456px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-swagger-io {
+        .favicon-sun-com {
             background-position: 0 -3472px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-swift {
+        .favicon-swagger-io {
             background-position: 0 -3488px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-talkingpointsmemo-com {
+        .favicon-swift {
             background-position: 0 -3504px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-target {
+        .favicon-talkingpointsmemo-com {
             background-position: 0 -3520px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-teamwork {
+        .favicon-target {
             background-position: 0 -3536px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-techsupportalert-com {
+        .favicon-teamwork {
             background-position: 0 -3552px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ted-com {
+        .favicon-techsupportalert-com {
             background-position: 0 -3568px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thehill-com {
+        .favicon-ted-com {
             background-position: 0 -3584px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thehotlist-com {
+        .favicon-thehill-com {
             background-position: 0 -3600px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-theonion-com {
+        .favicon-thehotlist-com {
             background-position: 0 -3616px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thesaurus-com {
+        .favicon-theonion-com {
             background-position: 0 -3632px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thestreet-com {
+        .favicon-thesaurus-com {
             background-position: 0 -3648px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thisweknow-org {
+        .favicon-thestreet-com {
             background-position: 0 -3664px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-thoughtworks-com {
+        .favicon-thisweknow-org {
             background-position: 0 -3680px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-tinychat-com {
+        .favicon-thoughtworks-com {
             background-position: 0 -3696px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-tinypay-me {
+        .favicon-tinychat-com {
             background-position: 0 -3712px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-townhall-com {
+        .favicon-tinypay-me {
             background-position: 0 -3728px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-transparent {
+        .favicon-townhall-com {
             background-position: 0 -3744px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-travis-ci-com {
+        .favicon-transparent {
             background-position: 0 -3760px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-tudou-com {
+        .favicon-travis-ci-com {
             background-position: 0 -3776px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-tungle-me {
+        .favicon-tudou-com {
             background-position: 0 -3792px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-twitter-com {
+        .favicon-tungle-me {
             background-position: 0 -3808px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ucla-edu {
+        .favicon-twitter-com {
             background-position: 0 -3824px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ucop-edu {
+        .favicon-ucla-edu {
             background-position: 0 -3840px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-usatoday-com {
+        .favicon-ucop-edu {
             background-position: 0 -3856px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-viddler-com {
+        .favicon-usatoday-com {
             background-position: 0 -3872px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-vimeo-com {
+        .favicon-viddler-com {
             background-position: 0 -3888px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-virb-com {
+        .favicon-vimeo-com {
             background-position: 0 -3904px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-vkontakte-ru {
+        .favicon-virb-com {
             background-position: 0 -3920px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-washingtonpost-com {
+        .favicon-vkontakte-ru {
             background-position: 0 -3936px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wechat-com {
+        .favicon-washingtonpost-com {
             background-position: 0 -3952px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wellsfargo-com {
+        .favicon-wechat-com {
             background-position: 0 -3968px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wested-org {
+        .favicon-wellsfargo-com {
             background-position: 0 -3984px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-whatsapp-com {
+        .favicon-wested-org {
             background-position: 0 -4000px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wikipedia-org {
+        .favicon-whatsapp-com {
             background-position: 0 -4016px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wired-com {
+        .favicon-wikipedia-org {
             background-position: 0 -4032px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-wustl-edu {
+        .favicon-wired-com {
             background-position: 0 -4048px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-xing-com {
+        .favicon-wustl-edu {
             background-position: 0 -4064px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-yahoo-com {
+        .favicon-xing-com {
             background-position: 0 -4080px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-yale-edu {
+        .favicon-yahoo-com {
             background-position: 0 -4096px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-ycombinator-com {
+        .favicon-yale-edu {
             background-position: 0 -4112px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-yelp-com {
+        .favicon-ycombinator-com {
             background-position: 0 -4128px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-youku-com {
+        .favicon-yelp-com {
             background-position: 0 -4144px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-youtube-com {
+        .favicon-youku-com {
             background-position: 0 -4160px;
             width: 16px;
             height: 16px;
         }
         
-        .favicon-zeer-com {
+        .favicon-youtube-com {
             background-position: 0 -4176px;
+            width: 16px;
+            height: 16px;
+        }
+        
+        .favicon-zeer-com {
+            background-position: 0 -4192px;
             width: 16px;
             height: 16px;
         }
@@ -2053,6 +2060,7 @@
     .favicon-stackoverflow-com,
     .favicon-stanford-edu,
     .favicon-starfall-com,
+    .favicon-startup,
     .favicon-stumbleupon-com,
     .favicon-sun-com,
     .favicon-swagger-io,
@@ -2100,10 +2108,10 @@
     .favicon-youku-com,
     .favicon-youtube-com,
     .favicon-zeer-com {
-                background-image: url('/assets/img/favicons.png?7ec235adf8');
-                -webkit-background-size: 16px 4192px;
-                -moz-background-size: 16px 4192px;
-                background-size: 16px 4192px;
+                background-image: url('/assets/img/favicons.png?92d655adff');
+                -webkit-background-size: 16px 4208px;
+                -moz-background-size: 16px 4208px;
+                background-size: 16px 4208px;
             }
         }
         
